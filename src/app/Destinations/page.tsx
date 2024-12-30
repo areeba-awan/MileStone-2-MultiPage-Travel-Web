@@ -96,10 +96,12 @@ const page = () => {
             key={destination.id}
             className="rounded-lg overflow-hidden shadow-lg transition-transform hover:scale-105"
           >
-            <img
+            <Image
               src={destination.image}
               alt={destination.name}
               className="w-full h-48 lg:h-64 object-cover"
+              width={500}
+              height={300}
             
             />
             <div>
@@ -111,7 +113,7 @@ const page = () => {
                 <span className="text-lg font-bold text-gray-900">
                   ${destination.price}
                 </span>
-                <button className="bg-blue-800 text-white px-4 py-2 rounded-md transition-transform hover:scale-105">
+                <button className="bg-blue-800 text-white px-4 py-2 rounded-md  transition-transform hover:scale-105">
                   Add to WishList
                 </button>
               </div>

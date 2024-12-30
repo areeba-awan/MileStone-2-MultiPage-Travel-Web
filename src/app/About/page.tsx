@@ -18,7 +18,7 @@ const page = () => {
             About Us
           </h1>
           <h2 className="font-sans text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] text-zinc-700 leading-tight">
-            Welcome to TRIPI WORLD, We believe that every journey is more than just a destination;it’s an adventure that begins the moment you step out your door.
+            Welcome to TRIPI WORLD, We believe that every journey is more than just a destination,its an adventure that begins the moment you step out your door.
             Imagine wandering through the vibrant souks of Marrakech, where the scent of spices fills the air, and the colors of intricate tapestries dazzle your senses. Or picture yourself on the pristine beaches of the Maldives, where turquoise waters and white sands create the perfect paradise. With Tripi, these exotic locations are within your reach, offering unique experiences that enrich your soul."
           </h2>
         </div>
