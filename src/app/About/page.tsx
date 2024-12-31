@@ -18,9 +18,7 @@ const page = () => {
             About Us
           </h1>
           <p className="font-sans text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] text-zinc-700 leading-tight">
-            Welcome to TRIPI WORLD, Travel is more than just the act of moving from one place to another; it is an enriching experience that broadens our horizons, introduces us to new cultures, and creates lifelong memories. Whether it's a weekend getaway or a month-long journey, the joys of travel are truly unparalleled.
-
-One of the most exciting aspects of travel is the opportunity to explore new destinations.</p>
+            Welcome to TRIPI WORLD, Travel is more than just the act of moving from one place to another, it is an enriching experience that broadens our horizons, introduces us to new cultures, and creates lifelong memories. Whether it's a weekend getaway or a month-long journey, the joys of travel are truly unparalleled.One of the most exciting aspects of travel is the opportunity to explore new destinations.</p>
         </div>
       </div>
     </div>
